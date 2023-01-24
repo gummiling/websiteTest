@@ -1,2 +1,7 @@
 # wedsiteTest
-Sample repo for walkthrough 2 of fastai course
+
+## Introductions:
+
+This is a sample repo for walkthrough 2 of fastai course
+
+
